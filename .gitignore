@@ -1,2 +1,4 @@
 venv/
 players.json
+.terraform
+*.zip
