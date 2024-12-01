@@ -19,5 +19,5 @@ Ensure you have correctly configured your AWS account credentials.
 cp players.json.sample players.json
 # Edit the file with players names and international phone numbers.
 
-python killer-game.py
+python secret-santa.py
 ```
