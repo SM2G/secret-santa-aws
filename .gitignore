@@ -1,4 +1,5 @@
 venv/
 players.json
+*.bkp*
 .terraform
 *.zip

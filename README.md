@@ -1,11 +1,11 @@
-# Killer Game
+# Secret Santa
 
-Organize a killer game or a secret santa using AWS SNS.
+Organize a secret santa or a killer game using AWS SNS.
 
 ## Setup
 Clone the repository
 ```bash
-cd killer-game-aws
+cd secret-santa-aws
 virtualenv venv -p python3.8
 . venv/bin/activate
 
